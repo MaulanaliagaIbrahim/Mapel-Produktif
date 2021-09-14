@@ -8,4 +8,5 @@ c.Github
    -Membuat repository
    -Membuat file baru
    -Membuat commit
-d.Gitt
+d.GIt
+   - Belum
