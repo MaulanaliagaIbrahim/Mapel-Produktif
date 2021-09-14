@@ -4,4 +4,8 @@ a.Komunikasi daring Sinkron
 b.Komunikasi daring Asinkron
    - Email
 c.Github
-d.GIt
+   -Membuat akun
+   -Membuat repository
+   -Membuat file baru
+   -Membuat commit
+d.Gitt
